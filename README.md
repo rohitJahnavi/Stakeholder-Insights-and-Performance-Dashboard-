@@ -3,6 +3,7 @@
 Stakeholder Insights and Performance Dashboard
 
 Purpose:
+
 A thorough summary of important business KPIs and data insights about insurers, stakeholders, and policy performance will be offered via the dashboard. 
 In order to make data-driven decisions, stakeholders will be able to examine asset distribution, profitability, and premium trends.
 
